@@ -50,7 +50,7 @@ interests:
   - Data Visualization
 
 education:
-  - area: M.Sc. Management and Technology / Major in Operations and Suplly chain Mangement, Minor in Computer Engineering
+  - area: M.Sc. Management and Technology / Major in Operations and Suply chain Mangement, Minor in Computer Engineering
     institution: Technical University of Munich
     date_start: 2022-10-01
     date_end: 2025-03-31
