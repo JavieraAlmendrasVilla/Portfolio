@@ -152,7 +152,7 @@ languages:
 
 ## About Me
 
-'m a graduate with a Master's in Management and Technology from the Technical University of Munich with a passion for Analytics. With over 5 years of experience across diverse fields, my academic and professional journey has honed my adaptability, resilience, and ability to thrive in dynamic environments.
+I'm a graduate with a Master's in Management and Technology from the Technical University of Munich with a passion for Analytics. With over 5 years of experience across diverse fields, my academic and professional journey has honed my adaptability, resilience, and ability to thrive in dynamic environments.
 
 My career began as a general dentist in Chile, where I developed strong problem-solving skills and attention to detail. Since then, I've transitioned into data science and logistics roles, where I apply these skills in new ways. As a Working Student at Experteer GmbH, I collaborate with cross-functional teams to optimize data pipelines and enhance machine learning models, ensuring reliable and efficient data management.
 
