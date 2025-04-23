@@ -7,6 +7,7 @@ tags:
   - Google Looker
   - BI
   - Business Analysis
+featured: true
 ---
 
 Sample automotive industry interactive dashboard created on Google Looker Studio

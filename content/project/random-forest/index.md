@@ -7,6 +7,7 @@ tags:
   - R
   - Random forest
   - Machine learning
+featured: true
 ---
 
 Random Forest model to predict smoking status based on medical data, implemented on R with visualizations on ggplot2

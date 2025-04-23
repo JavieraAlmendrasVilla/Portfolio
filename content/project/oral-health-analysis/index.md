@@ -8,7 +8,7 @@ tags:
   - Oral data
   - ggplot2
   - Data analysis
-
+featured: true
 ---
 
 Analysis of Oral Health Data on R with visualizations on ggplot2
