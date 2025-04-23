@@ -9,6 +9,6 @@ tags:
   - Business Analysis
 ---
 
-Sample automotive industry interactive dashboard created on Google Looker
+Sample automotive industry interactive dashboard created on Google Looker Studio
 
 <!--more-->
