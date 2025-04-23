@@ -57,15 +57,15 @@ education:
     summary: |
       Thesis on Simulated Annealing for Staggered Routing Autonomous Mobility on Demand
       
-  - Courses included:
-      - Business Analytics and Machine Learning
-      - Introduction to deep Learning
-      - Artificial Intelligence for Innovation and Entrepreneurship
-      - Data Analysis and Visualization in R
-      - Introduction to Deep Reinforcement Learning
-    #button:
-     # text: 'Read Thesis'
-      #url: 'https://example.com'
+      Courses included:
+          - Business Analytics and Machine Learning
+          - Introduction to deep Learning
+          - Artificial Intelligence for Innovation and Entrepreneurship
+          - Data Analysis and Visualization in R
+          - Introduction to Deep Reinforcement Learning
+        #button:
+         # text: 'Read Thesis'
+          #url: 'https://example.com'
         
   - area: BSc International Business and Economics
     institution: Otto von Guericke University Magdeburg
