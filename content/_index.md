@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Projects'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am a recent graduate from the Technical University of Munich (TUM) with a Master's degree in Management and Technology. 
+        I am passionate about data analysis and machine learning, and I have worked on various projects in these fields. 
+        Below are some of my recent projects that showcase my skills and expertise.
     design:
       columns: '1'
   - block: collection
@@ -48,7 +46,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       view: article-grid
@@ -59,7 +57,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - project
         exclude_featured: false
     design:
       view: citation
