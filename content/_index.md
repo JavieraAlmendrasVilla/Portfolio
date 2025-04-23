@@ -40,17 +40,17 @@ sections:
         Below are some of my recent projects that showcase my skills and expertise.
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - project
-        #featured_only: true
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+  #- block: collection
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - project
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    fill_image: false
+  #    columns: 3
   #- block: collection
   #  content:
   #    title: Recent Publications
