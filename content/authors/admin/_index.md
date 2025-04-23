@@ -152,4 +152,8 @@ languages:
 
 ## About Me
 
-Javiera Almendras Villa is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+'m a graduate with a Master's in Management and Technology from the Technical University of Munich with a passion for Analytics. With over 5 years of experience across diverse fields, my academic and professional journey has honed my adaptability, resilience, and ability to thrive in dynamic environments.
+
+My career began as a general dentist in Chile, where I developed strong problem-solving skills and attention to detail. Since then, I've transitioned into data science and logistics roles, where I apply these skills in new ways. As a Working Student at Experteer GmbH, I collaborate with cross-functional teams to optimize data pipelines and enhance machine learning models, ensuring reliable and efficient data management.
+
+Having lived in Chile, Colombia, New Zealand, Austria, and Germany, I bring a unique blend of technical expertise, strategic thinking, and a commitment to continuous learning. I thrive in environments where I can leverage my analytical skills to solve complex problems and contribute to innovative projects. I'm eager to connect with professionals who share a passion for data-driven decision-making and technological innovation.
