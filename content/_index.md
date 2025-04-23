@@ -30,16 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Projects'
-      subtitle: ''
-      text: |-
-        I am a recent graduate from the Technical University of Munich (TUM) with a Master's degree in Management and Technology. 
-        I am passionate about data analysis and machine learning, and I have worked on various projects in these fields. 
-        Below are some of my recent projects that showcase my skills and expertise.
-    design:
-      columns: '1'
+  #- block: markdown
+  #  content:
+  #    title: '📚 My Projects'
+  #    subtitle: ''
+  #    text: |-
+  #      I am a recent graduate from the Technical University of Munich (TUM) with a Master's degree in Management and Technology. 
+  #      I am passionate about data analysis and machine learning, and I have worked on various projects in these fields. 
+  #      Below are some of my recent projects that showcase my skills and expertise.
+  #  design:
+  #    columns: '1'
   #- block: collection
   #  content:
   #    title: Featured Publications
