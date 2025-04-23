@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/JavieraAlmendrasVilla/Portfolio#
   - icon: brands/linkedin
-    url: https://www.linkedin.com/javiera-almendras-villa/
+    url: https://www.linkedin.com/in/javiera-almendras-villa/
   
   
 
