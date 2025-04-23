@@ -25,7 +25,7 @@ role: Data Analyst
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Innove
-    url: https://innove.cloude/
+    url: https://innove.cloud/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
