@@ -56,8 +56,7 @@ education:
     date_end: 2025-03-31
     summary: |
       Thesis on Simulated Annealing for Staggered Routing Autonomous Mobility on Demand
-      
-      Courses included:
+    Courses included:
           - Business Analytics and Machine Learning
           - Introduction to deep Learning
           - Artificial Intelligence for Innovation and Entrepreneurship
@@ -73,7 +72,7 @@ education:
     date_end: 2022-07-31
     summary: |
       
-      Courses included:
+    Courses included:
       - Statistics
       - Calculus and Linear Algebra
       - Econometrics I and II
