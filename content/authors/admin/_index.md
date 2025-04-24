@@ -157,8 +157,6 @@ languages:
 
 🦷 My professional journey started in an unexpected place: as a **general dentist** in Chile! There, I sharpened my skills in problem-solving, precision, and staying calm under pressure—traits that now serve me well in the tech world. These days, I’ve traded the dental tools for **data pipelines and machine learning models** 🤖.
 
-🚀 Currently, I’m a **Working Student at Experteer GmbH**, where I team up with brilliant minds across departments to build smarter, faster, and more efficient data solutions. From optimizing backend workflows to tweaking models, I'm hands-on in making data-driven magic happen.
-
 🌍 Having lived in **Chile, Colombia, New Zealand, Austria**, and **Germany**, I bring a **global mindset**, technical know-how, and a strong dose of curiosity to everything I do. I thrive in dynamic environments where I can **solve real-world problems through data and creativity**.
 
 💡 Always learning. Always building. Always up for a challenge.

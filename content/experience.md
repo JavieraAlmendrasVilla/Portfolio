@@ -33,3 +33,6 @@ sections:
       title: Languages
       username: admin
 ---
+
+## 👩‍💻 Experience
+🚀 I worked as a **Working Student at Experteer GmbH**, where I team up with brilliant minds across departments to build smarter, faster, and more efficient data solutions. From optimizing backend workflows to tweaking models, I'm hands-on in making data-driven magic happen.
