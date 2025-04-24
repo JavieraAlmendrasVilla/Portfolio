@@ -56,13 +56,13 @@ education:
     date_end: 2025-03-31
     summary: |
       Thesis on Simulated Annealing for Staggered Routing Autonomous Mobility on Demand
-    Courses included:
-          - Business Analytics and Machine Learning
-          - Introduction to deep Learning
-          - Artificial Intelligence for Innovation and Entrepreneurship
-          - Data Analysis and Visualization in R
-          - Introduction to Deep Reinforcement Learning
-        #button:
+      Courses included:
+              - Business Analytics and Machine Learning
+              - Introduction to deep Learning
+              - Artificial Intelligence for Innovation and Entrepreneurship
+              - Data Analysis and Visualization in R
+              - Introduction to Deep Reinforcement Learning
+    #button:
          # text: 'Read Thesis'
           #url: 'https://example.com'
         
@@ -70,13 +70,12 @@ education:
     institution: Otto von Guericke University Magdeburg
     date_start: 2019-10-01
     date_end: 2022-07-31
-    summary: |
-      
-    Courses included:
-      - Statistics
-      - Calculus and Linear Algebra
-      - Econometrics I and II
-      - Quantitative Methods
+    summary: | 
+        Courses included:
+          - Statistics
+          - Calculus and Linear Algebra
+          - Econometrics I and II
+          - Quantitative Methods
 work:
   - position: Working Student as Data Analyst
     company_name: Experteer GmbH
