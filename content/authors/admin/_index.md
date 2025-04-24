@@ -50,24 +50,26 @@ interests:
   - Data Visualization
 
 education:
-  - area: M.Sc. Management and Technology / Major in Operations and Suply chain Mangement, Minor in Computer Engineering
+  - area: M.Sc. Management and Technology | 
+            Major in Operations and Suply chain Mangement |
+            Minor in Computer Engineering
     institution: Technical University of Munich
     date_start: 2022-10-01
     date_end: 2025-03-31
     summary: |
-      Thesis on Simulated Annealing for Staggered Routing Autonomous Mobility on Demand
-      Courses included:
-              - Business Analytics and Machine Learning
-              - Introduction to deep Learning
-              - Artificial Intelligence for Innovation and Entrepreneurship
-              - Data Analysis and Visualization in R
-              - Introduction to Deep Reinforcement Learning
+      Thesis on Simulated Annealing for Staggered Routing Autonomous Mobility on Demand |
+          Courses included:
+                  - Business Analytics and Machine Learning
+                  - Introduction to deep Learning
+                  - Artificial Intelligence for Innovation and Entrepreneurship
+                  - Data Analysis and Visualization in R
+                  - Introduction to Deep Reinforcement Learning
     #button:
          # text: 'Read Thesis'
           #url: 'https://example.com'
         
-  - area: BSc International Business and Economics
-    institution: Otto von Guericke University Magdeburg
+  - area: B.Sc. International Business and Economics
+    institution: Otto von Guericke University of Magdeburg
     date_start: 2019-10-01
     date_end: 2022-07-31
     summary: | 
