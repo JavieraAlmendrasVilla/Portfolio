@@ -149,10 +149,18 @@ languages:
   
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a graduate with a Master's in Management and Technology from the Technical University of Munich with a passion for Analytics. With over 5 years of experience across diverse fields, my academic and professional journey has honed my adaptability, resilience, and ability to thrive in dynamic environments.
 
-My career began as a general dentist in Chile, where I developed strong problem-solving skills and attention to detail. Since then, I've transitioned into data science and logistics roles, where I apply these skills in new ways. As a Working Student at Experteer GmbH, I collaborate with cross-functional teams to optimize data pipelines and enhance machine learning models, ensuring reliable and efficient data management.
 
-Having lived in Chile, Colombia, New Zealand, Austria, and Germany, I bring a unique blend of technical expertise, strategic thinking, and a commitment to continuous learning. I thrive in environments where I can leverage my analytical skills to solve complex problems and contribute to innovative projects. I'm eager to connect with professionals who share a passion for data-driven decision-making and technological innovation.
+🎓 I’m a proud graduate of the **Technical University of Munich**, holding a **Master’s in Management & Technology**—where business meets innovation! With over **5 years of experience** across industries and continents, I’ve developed a unique mix of adaptability, resilience, and a serious passion for analytics 📊.
+
+🦷 My professional journey started in an unexpected place: as a **general dentist** in Chile! There, I sharpened my skills in problem-solving, precision, and staying calm under pressure—traits that now serve me well in the tech world. These days, I’ve traded the dental tools for **data pipelines and machine learning models** 🤖.
+
+🚀 Currently, I’m a **Working Student at Experteer GmbH**, where I team up with brilliant minds across departments to build smarter, faster, and more efficient data solutions. From optimizing backend workflows to tweaking models, I'm hands-on in making data-driven magic happen.
+
+🌍 Having lived in **Chile, Colombia, New Zealand, Austria**, and **Germany**, I bring a **global mindset**, technical know-how, and a strong dose of curiosity to everything I do. I thrive in dynamic environments where I can **solve real-world problems through data and creativity**.
+
+💡 Always learning. Always building. Always up for a challenge.
+
+🤝 Let’s connect if you’re into **tech, data, innovation**, or just want to geek out over analytics!
