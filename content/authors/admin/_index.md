@@ -96,11 +96,11 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: Pandas, NumPy, Matplotlib, Seaborn, Object-Oriented Programming
         percent: 80
         icon: code-bracket
       - name: Data Science
-        description: ''
+        description: Data Analysis, Data Visualization, Dashboards
         percent: 100
         icon: chart-bar
       - name: SQL
