@@ -35,4 +35,7 @@ sections:
 ---
 
 ## 👩‍💻 Experience
+
+🦷 My professional journey started in an unexpected place: as a **general dentist** in Chile! There, I sharpened my skills in problem-solving, precision, and staying calm under pressure—traits that now serve me well in the tech world. These days, I’ve traded the dental tools for **data pipelines and machine learning models** 🤖.
+
 🚀 I worked as a **Working Student at Experteer GmbH**, where I team up with brilliant minds across departments to build smarter, faster, and more efficient data solutions. From optimizing backend workflows to tweaking models, I'm hands-on in making data-driven magic happen.

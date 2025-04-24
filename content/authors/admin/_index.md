@@ -131,7 +131,7 @@ languages:
   - name: English
     percent: 100
   - name: German
-    percent: 50
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -154,7 +154,6 @@ languages:
 
 🎓 I’m a proud graduate of the **Technical University of Munich**, holding a **Master’s in Management & Technology**—where business meets innovation! With over **5 years of experience** across industries and continents, I’ve developed a unique mix of adaptability, resilience, and a serious passion for analytics 📊.
 
-🦷 My professional journey started in an unexpected place: as a **general dentist** in Chile! There, I sharpened my skills in problem-solving, precision, and staying calm under pressure—traits that now serve me well in the tech world. These days, I’ve traded the dental tools for **data pipelines and machine learning models** 🤖.
 
 🌍 Having lived in **Chile, Colombia, New Zealand, Austria**, and **Germany**, I bring a **global mindset**, technical know-how, and a strong dose of curiosity to everything I do. I thrive in dynamic environments where I can **solve real-world problems through data and creativity**.
 
