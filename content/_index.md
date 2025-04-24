@@ -30,6 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: true
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
   #- block: markdown
   #  content:
   #    title: '📚 My Projects'
