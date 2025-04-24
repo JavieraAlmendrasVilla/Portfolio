@@ -99,30 +99,55 @@ skills:
         description: Pandas, NumPy, Matplotlib, Seaborn, Object-Oriented Programming
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: Data Analysis, Data Visualization, Dashboards
-        percent: 100
-        icon: chart-bar
       - name: SQL
-        description: ''
+        description: MySQL, Selection, Joins, Aggregation, CTE, Views
         percent: 40
         icon: circle-stack
+      - name: Machine Learning
+        description: Random Forest, CNN, RNN
+        percent: 60
+        icon: brain
+      - name: Google Looker Studio
+        description: Data Visualization, Dashboards
+        percent: 100
+        icon: chart-pie
+      - name: MS Excel
+        description: Data Analysis, Pivot Tables, Charts
+        percent: 100
+        icon: file-excel
+      - name: R
+        description: Data Analysis, Data Visualization, ggplot2
+        percent: 60
+        icon: file-code
+      - name: Java
+        description: Object-Oriented Programming, JavaFX
+        percent: 60
+        icon: file-code
+      - name: C++
+        description: Object-Oriented Programming
+        percent: 60
+        icon: file-code
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Social Media
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Travel
+        description: 30+ countries
         percent: 80
+        icon: plane
+      - name: Social Media
+        description: Creative project called @_innovee
+        percent: 60
         icon: camera
+      - name: Reading
+        description: Neuroscience
+        percent: 100
+        icon: book
+      - name: Sport
+        description: Running, Hiking
+        percent: 80
+        icon: running
 
 languages:
   - name: Spanish
