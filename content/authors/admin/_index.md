@@ -45,53 +45,50 @@ profiles:
   
 
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Visualization
+  - 🌟 Artificial Intelligence
+  - 🤖 Machine Learning
+  - 📊 Data Visualization
 
 education:
-  - area: M.Sc. Management and Technology | 
-            Major in Operations and Suply chain Mangement |
-            Minor in Computer Engineering
-    institution: Technical University of Munich
-    date_start: 2022-10-01
-    date_end: 2025-03-31
+  - area: M.Sc. Management and Technology  
+    institution: Technical University of Munich  
+    date_start: 2022-10-01  
+    date_end: 2025-03-31  
     summary: |
-      Thesis on Simulated Annealing for Staggered Routing Autonomous Mobility on Demand |
-          Courses included:
-                  - Business Analytics and Machine Learning
-                  - Introduction to deep Learning
-                  - Artificial Intelligence for Innovation and Entrepreneurship
-                  - Data Analysis and Visualization in R
-                  - Introduction to Deep Reinforcement Learning
-    #button:
-         # text: 'Read Thesis'
-          #url: 'https://example.com'
-        
-  - area: B.Sc. International Business and Economics
-    institution: Otto von Guericke University of Magdeburg
-    date_start: 2019-10-01
-    date_end: 2022-07-31
-    summary: | 
-        Courses included:
-          - Statistics
-          - Calculus and Linear Algebra
-          - Econometrics I and II
-          - Quantitative Methods
+      Major in Operations and Supply Chain Management | Minor in Computer Engineering  
+      🧠 **Thesis**: Simulated Annealing for Staggered Routing in Autonomous Mobility-on-Demand  
+      📚 Key Courses:  
+        - Business Analytics and Machine Learning  
+        - Introduction to Deep Learning  
+        - AI for Innovation and Entrepreneurship  
+        - Data Analysis and Visualization in R  
+        - Deep Reinforcement Learning Fundamentals
+
+  - area: B.Sc. International Business and Economics  
+    institution: Otto von Guericke University of Magdeburg  
+    date_start: 2019-10-01  
+    date_end: 2022-07-31  
+    summary: |
+      Solid foundation in quantitative analysis and economic theory  
+      📚 Key Courses:  
+        - Statistics  
+        - Calculus and Linear Algebra  
+        - Econometrics I & II  
+        - Quantitative Methods
+
 work:
-  - position: Working Student as Data Analyst
-    company_name: Experteer GmbH
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-10-30
-    date_end: 2025-02-19
-    summary: |2-
-      Responsibilities include:
-      - Collecting, cleaning, and analyzing job market data using SQL, Python, and MS Excel to support machine learning model development
-      - Researched and classified 600+ companies and subsidiaries, maintaining accurate corporate structures and up-to-date database management
-      - Collaborated on cross-functional projects with the product team to define candidate expertise and match talent to job opportunities, delivering projects 50% faster than expected
-      - Developed a Python-based HTML email generation function, increasing efficiency by 90%, and enabling automated candidate data sharing with headhunters
-  
+  - position: Working Student – Data Analyst  
+    company_name: Experteer GmbH  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2023-10-30  
+    date_end: 2025-02-19  
+    summary: |
+      🚀 At Experteer, I support product innovation through data-driven insights:  
+      - Collected, cleaned, and analyzed job market data with SQL, Python, and Excel to improve ML models  
+      - Researched and classified 600+ companies, streamlining our database for more accurate search results  
+      - Partnered with cross-functional teams to define candidate expertise and enhance talent matching—cutting delivery time by 50%  
+      - Built a Python-based tool to generate HTML emails, boosting automation and saving 90% of manual effort
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
