@@ -154,7 +154,7 @@ languages:
   - name: Spanish
     percent: 100
   - name: English
-    percent: 100
+    percent: 90
   - name: German
     percent: 60
 
