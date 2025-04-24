@@ -84,7 +84,7 @@ work:
     date_start: 2023-10-30  
     date_end: 2025-02-19  
     summary: |
-      🚀 At Experteer, I support product innovation through data-driven insights:  
+      🚀 At Experteer, I supported product innovation through data-driven insights:  
       - Collected, cleaned, and analyzed job market data with SQL, Python, and Excel to improve ML models  
       - Researched and classified 600+ companies, streamlining our database for more accurate search results  
       - Partnered with cross-functional teams to define candidate expertise and enhance talent matching—cutting delivery time by 50%  
