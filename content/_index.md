@@ -32,10 +32,13 @@ sections:
           parallax: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
-      username: admin
+        title: Skills & Hobbies
+        username: admin
     design:
-      show_skill_percentage: true
+        show_skill_percentage: true
+        layout: two-columns
+        align_vertical: top
+
   - block: resume-languages
     content:
       title: Languages

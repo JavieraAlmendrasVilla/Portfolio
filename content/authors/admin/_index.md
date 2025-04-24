@@ -98,35 +98,36 @@ skills:
       - name: Python
         description: Pandas, NumPy, Matplotlib, Seaborn, Object-Oriented Programming
         percent: 80
-        icon: code-bracket
+        icon: snake # 🐍 or a custom python icon if available; fallback: code-bracket
       - name: SQL
         description: MySQL, Selection, Joins, Aggregation, CTE, Views
         percent: 40
-        icon: circle-stack
+        icon: database # Better than circle-stack for SQL-related work
       - name: Machine Learning
         description: Random Forest, CNN, RNN
         percent: 60
-        icon: brain
+        icon: brain-circuit # brain or brain-circuit (if available); fallback: cpu or chip
       - name: Google Looker Studio
         description: Data Visualization, Dashboards
         percent: 100
-        icon: chart-pie
+        icon: bar-chart-2 # bar-chart-2 or presentation-chart-line if available
       - name: MS Excel
         description: Data Analysis, Pivot Tables, Charts
         percent: 100
-        icon: file-excel
+        icon: file-spreadsheet # or file-excel if supported
       - name: R
         description: Data Analysis, Data Visualization, ggplot2
         percent: 60
-        icon: file-code
+        icon: chart-bar # simple and fits visualization context
       - name: Java
         description: Object-Oriented Programming, JavaFX
         percent: 60
-        icon: file-code
+        icon: coffee # ☕ classic Java symbol
       - name: C++
         description: Object-Oriented Programming
         percent: 60
-        icon: file-code
+        icon: code-2 # or file-code if no language-specific icon available
+
         
   - name: Hobbies
     color: '#eeac02'
