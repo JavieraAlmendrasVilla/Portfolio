@@ -1,5 +1,5 @@
 ---
-title: Sample dashboard
+title: Sample dashboard on Google Looker Studio
 date: 2025-04-23
 external_link: https://lookerstudio.google.com/s/tFOuKvMQf9c
 tags:
